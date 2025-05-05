@@ -32,4 +32,7 @@ To enhance road safety and minimize response time in case of accidents by levera
 * Commercial transportation fleets
 * Driver safety monitoring systems
 
+Video On How Our Project Works
+https://drive.google.com/file/d/1U9ffteRAXbutJKeM_Odl9tweXbUP9z9y/view?usp=drive_link
+
 
